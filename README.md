@@ -1,6 +1,6 @@
 # camera_test
 
-Take Camera App. (Testing Camera Flutter Plugin)
+Take Camera App. (Testing Camera Flutter Plugin) https://pub.dev/packages/camera
 
 ## Plan to do
 - To learn Camera plugin
